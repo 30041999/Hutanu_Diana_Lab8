@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "Hutanu_Diana_Lab8Context"
+    }
+  }
+}
